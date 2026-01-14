@@ -7,3 +7,5 @@ n is still 4 so false, i'ts not odd
 //Function 4: multiply two numbers a, b
 let a = 3;
 let b = 4; The product will be 12.
+//Function 5: double a number, if the number is 5 double is 10.
+
