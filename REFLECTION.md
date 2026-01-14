@@ -1,3 +1,5 @@
+//Behzad Ghabaei
+
 1. What patterns or surprises did you notice?
 I noticed that isOdd can simply be called !isEven to save code. But human readable is best.
 
