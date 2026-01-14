@@ -8,4 +8,7 @@ n is still 4 so false, i'ts not odd
 let a = 3;
 let b = 4; The product will be 12.
 //Function 5: double a number, if the number is 5 double is 10.
+//Function 6: exponentiation
+let base = 2;
+let exponent = 3; 2 to the 3rd power is 8.
 
