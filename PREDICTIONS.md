@@ -6,3 +6,4 @@ The multiply(n) function will multiply two numbers a, b. yes prediction is corre
 The power(base, exponent) function uses Math.pow 2 ^3 is 8 . yes prediction is correct.
 The powerOf(baseOf,exponentOf) function does not use Math. Yes it will be correct.
 The fact(n) function will be correct 4! = 24, careful to use fact() instead of factorial().
+
