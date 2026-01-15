@@ -55,3 +55,14 @@ function powerOf(baseOf, exponentOf) {
 console.log(powerOf(2, 3));
 // → 8
 
+//Function 8 factorial
+const fact = function factorial(n) {
+  if (n === 0 || n === 1) {
+    return 1;
+  }
+  return n * factorial(n - 1);
+};
+console.log("factorial of " + n + " is: " + fact(n));
+
+
+
