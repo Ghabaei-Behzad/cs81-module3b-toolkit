@@ -44,3 +44,14 @@ function power(base, exponent) {
 }
 console.log("The number " + base + " to the " + exponent + " power is: " + power(base, exponent));
 
+//Function 7: exponentOf
+function powerOf(baseOf, exponentOf) {
+  if (exponentOf == 0) {
+    return 1;
+  } else {
+    return baseOf * power(baseOf, exponentOf - 1);
+  }
+}
+console.log(powerOf(2, 3));
+// → 8
+
