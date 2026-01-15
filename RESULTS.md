@@ -13,6 +13,7 @@ let base = 2;
 let exponent = 3; 2 to the 3rd power is 8.
 //Function 7: powerOf(0 function with (2,3) //-> 8
 powerOf(base,exponent) was correct in finding the exponent. 2^3 is 8
+//Function 8 fact(n) n is 4 fact() returns 24
 //--//
 the square of 4 is 16
 the number 4 is even: true
@@ -21,3 +22,4 @@ The numbers 3 * 4 = 12
 Double 5: 10
 The number 2 to the 3 power is: 8
 8
+factorial of 4 is: 24
