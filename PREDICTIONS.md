@@ -4,4 +4,4 @@ The isEven(n) function returns true or false if number is even, with a modulo op
 The isOdd(n) function will return true for 3 and false for 4. The modulo operator if the remainder is not ! a zero. yes prediction is correct.
 The multiply(n) function will multiply two numbers a, b. yes prediction is correct.
 The power(base, exponent) function uses Math.pow 2 ^3 is 8 . yes prediction is correct.
-The powerOf(baseOf,exponentOf) function does not use Math.
+The powerOf(baseOf,exponentOf) function does not use Math. Yes it will be correct.
