@@ -44,7 +44,7 @@ function power(base, exponent) {
 }
 console.log("The number " + base + " to the " + exponent + " power is: " + power(base, exponent));
 
-//Function 7: exponentOf
+//Function 7: powerOf
 function powerOf(baseOf, exponentOf) {
   if (exponentOf == 0) {
     return 1;
