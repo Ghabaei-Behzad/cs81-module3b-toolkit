@@ -1,3 +1,10 @@
+// Behzad Ghabaei
+// Math toolkit Builder 
+// Assignment 3b
+// Predictions.md
+// math.js
+
+
 The double(n) function will take a number n and multiply it by two. So 5 returns 10. yes prediction is correct.
 The square(n) function will return the square of a number: such as 2 returns 4. yes prediction is correct.
 The isEven(n) function returns true or false if number is even, with a modulo operation: returns no remainder. 4 is true, 5 is false. yes.
