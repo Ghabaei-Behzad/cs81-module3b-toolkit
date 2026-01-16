@@ -49,7 +49,7 @@ function powerOf(baseOf, exponentOf) {
   if (exponentOf == 0) {
     return 1;
   } else {
-    return baseOf * power(baseOf, exponentOf - 1);
+    return baseOf * powerOf(baseOf, exponentOf - 1);
   }
 }
 console.log(powerOf(2, 3));
