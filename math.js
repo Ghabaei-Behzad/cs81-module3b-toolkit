@@ -1,9 +1,9 @@
 // Behzad Ghabaei
 // math.js
 // Assignment 3B 
-// More thann 5 commits entered.
+// More than 5 commits entered.
 // 8 functions created
-// URL attaachment -  https://github.com/Ghabaei-Behzad/cs81-module3b-toolkit.git
+// URL attachment -  https://github.com/Ghabaei-Behzad/cs81-module3b-toolkit.git
 
 //Function 1: square a number
 let n = 4;
