@@ -1,5 +1,8 @@
-//Behzad Ghabaei
+// Behzad Ghabaei
 // math.js
+// Assignment 3B 
+// More thann 5 commits entered.
+// 8 functions created
 
 //Function 1: square a number
 let n = 4;
