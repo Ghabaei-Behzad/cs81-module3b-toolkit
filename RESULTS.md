@@ -1,3 +1,7 @@
+// Behzad Ghabaei
+// Assignmnet 3B
+// Results.md regarding math.js
+
 //Function 1: square a number
 let n = 4; which will return 16
 //Function 2: is a number even.
