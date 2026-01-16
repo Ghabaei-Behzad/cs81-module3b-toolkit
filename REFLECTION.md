@@ -1,4 +1,7 @@
 //Behzad Ghabaei
+//Assignment 3B
+//re: math.js
+//Reflection.md
 
 1. What patterns or surprises did you notice?
 I noticed that isOdd can simply be called !isEven to save code. But human readable is best.
